@@ -20,7 +20,7 @@ header {
 nav {
     float: left;
     width: 30%;
-    height: 300px; /* only for demonstration, should be removed */
+    height: 400px; 
     background: lightgrey;
     padding: 20px;
 }
